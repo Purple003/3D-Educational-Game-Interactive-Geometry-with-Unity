@@ -25,3 +25,8 @@ An interactive **3D educational game** built with Unity to help students visuali
 1. Clone this repository:
    ```bash
    git clone https://github.com/Purple003/3D-Educational-Game-Interactive-Geometry-with-Unity.git
+
+## Présentation
+Le rapport complet du projet est disponible ici :
+/Assets/Documents/**ppt of 3D educational game.pdf**
+
